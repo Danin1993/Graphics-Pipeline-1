@@ -2,7 +2,12 @@
 The modified code for this project is located in the driver_state.cpp file.
 ## Description
 
-This project simulates elements of the OpenGL graphics pipeline. This includes triangle, indexed, triangle fan, and triangle strip vertex ordering shemes, triangle clipping with the view-volume, triangle color interpolation methods, z-buffering, and triangle rasterization.
+This project simulates elements of the OpenGL graphics pipeline. This includes:
+- triangle, indexed, triangle fan, and triangle strip vertex ordering schemes
+- triangle clipping with the view-volume
+- triangle color interpolation methods
+- z-buffering
+- triangle rasterization
 
 ## Usage
 
