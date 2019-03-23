@@ -6,7 +6,7 @@ This project simulates elements of the OpenGL graphics pipeline. This includes t
 
 ## Usage
 
-Compile the project with `scon`s and then run each test ( 0 - 25 ) with the following:
+Compile the project with `scons` and then run each test ( 0 - 25 ) with the following:
 `./driver -i XX.txt`
 Where XX is in the range 00-25.
 
